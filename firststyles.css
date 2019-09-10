@@ -1,0 +1,62 @@
+h1 {
+	font-size: 75px
+}
+
+ul{
+	font-size: 20px;
+	align-content:
+}
+
+nav {
+	bottom: 0;
+	position: fixed;
+	width: 100%;
+}
+
+nav{
+	font-size: 20px;
+}
+
+body {
+	background-image: url("http://eskipaper.com/images/plain-background-1.jpg");
+}
+
+.BackgroundColor{
+	background-color: lightgrey;
+
+}
+
+.FontSize{
+	font-size: 40px;
+
+}
+
+
+
+.ParaAbout{
+	font-size: 25px;
+	background-image: url();
+}
+
+.source{
+	font-size: 25px;
+}
+
+.imgClass{
+	float: left;
+}
+
+.Projects{
+	background-image: url();
+}
+
+.h1class{
+	background-color: lightgrey;
+}
+
+
+}
+
+.thclass{
+	background-color: red;
+}
