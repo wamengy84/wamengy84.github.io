@@ -9,12 +9,13 @@ ul{
 
 nav {
 	bottom: 0;
-	position: fixed;
+	position: all;
 	width: 100%;
 }
 
 nav{
 	font-size: 20px;
+	
 }
 
 body {
@@ -23,6 +24,9 @@ body {
 
 .BackgroundColor{
 	background-color: lightgrey;
+	border-style: solid;
+	border-width: 1px;
+	border height: 1px;
 
 }
 
@@ -44,6 +48,9 @@ body {
 
 .imgClass{
 	float: left;
+	border-style: solid;
+	border-width: 1px;
+	border height: 1px;
 }
 
 .Projects{
@@ -52,6 +59,9 @@ body {
 
 .h1class{
 	background-color: lightgrey;
+	border-style: solid;
+	border-width: 1px;
+	border height: 1px;
 }
 
 
@@ -59,4 +69,13 @@ body {
 
 .thclass{
 	background-color: red;
+}
+
+.style1{
+	background-color: lightgrey;
+  width: 350px;
+  border: 15px solid blue;
+  padding: 50px;
+  margin: 20px;
+  height: 320px;
 }
