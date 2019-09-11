@@ -1,5 +1,7 @@
 h1 {
 	font-size: 75px
+	
+
 }
 
 ul{
@@ -19,7 +21,7 @@ nav{
 }
 
 body {
-	background-image: url("http://eskipaper.com/images/plain-background-1.jpg");
+	background-image: url("https://images.unsplash.com/photo-1517799094725-e3453440724e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80");
 }
 
 .BackgroundColor{
@@ -69,8 +71,4 @@ body {
 
 .thclass{
 	background-color: red;
-}
-
-.hover{
-	: yellow;
 }
